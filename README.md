@@ -104,6 +104,15 @@ Database: MongoDB Atlas
 
 Version Control: Git + GitHub
 
+## 📸 Screenshots
+\assets\Screenshot 2025-10-29 164627.png"
+\assets\Screenshot 2025-10-29 164659.png"
+\assets\Screenshot 2025-10-29 164716.png"
+\assets\Screenshot 2025-10-29 164503.png"
+\assets\Screenshot 2025-10-29 164525.png"
+\assets\Screenshot 2025-10-29 164543.png"
+\assets\Screenshot 2025-10-29 164601.png"
+
 📦 Deployment (optional)
 
 You can deploy using:
