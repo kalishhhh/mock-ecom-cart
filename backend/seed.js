@@ -1,0 +1,42 @@
+const products = [
+  {
+    name: "Classic White T-shirt",
+    description: "Soft cotton tee with a comfortable fit for everyday wear.",
+    price: 499,
+    category: "Clothing",
+    image: "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf",
+    stock: 25,
+  },
+  {
+    name: "Blue Denim Jeans",
+    description: "High-quality stretch denim with modern slim fit.",
+    price: 1299,
+    category: "Clothing",
+    image: "https://images.unsplash.com/photo-1583324113626-70df0f4deaab",
+    stock: 20,
+  },
+  {
+    name: "Running Sneakers",
+    description: "Lightweight sneakers with breathable mesh and cushioned sole.",
+    price: 1999,
+    category: "Footwear",
+    image: "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9b9",
+    stock: 15,
+  },
+  {
+    name: "Black Baseball Cap",
+    description: "Adjustable classic cap made with durable cotton fabric.",
+    price: 299,
+    category: "Accessories",
+    image: "https://images.unsplash.com/photo-1578587018452-892bacefd3f8",
+    stock: 30,
+  },
+  {
+    name: "Comfy Hoodie",
+    description: "Warm fleece hoodie with kangaroo pocket for casual comfort.",
+    price: 999,
+    category: "Clothing",
+    image: "https://images.unsplash.com/photo-1618354691438-d87c7d38b8b2",
+    stock: 18,
+  },
+];
